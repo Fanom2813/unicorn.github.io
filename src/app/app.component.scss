@@ -1,0 +1,20 @@
+#section1{
+    background: url('../assets/img/bg.jpg') rgba(0, 0, 0, 0.4);
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 100vh;
+}
+
+.bg-dark-light{
+    background: url('../assets/img/bg.jpg') rgba(0, 0, 0, 0.4);
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 100vh;
+}
+
+#top-small-header{
+    background: rgba(255, 255, 255, 0.15);
+}
+
+
+#section1-list li{ list-style-image: url(../assets/img/checkmark.png) ;  } 
